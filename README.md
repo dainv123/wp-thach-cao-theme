@@ -1,3 +1,3 @@
-Brother project
+Brother's project:
 + Source wordpress
 + Data SQL
